@@ -4,11 +4,11 @@
  *
  * Class SimpleDOMDocument
  *
- * @author    S.A. Apostolou <steven@SimpleDOMAccess.com>
+ * @author    S.A. Apostolou <simpledomaccess@altheatec.com>
  * @license   LGPL: http://www.gnu.org/copyleft/lesser.html
  * @copyright Copyright (c) 2009, S.A. Apostolou
  * @version   $Id$
- * @link      http://www.SimpleDOMAccess.com
+ * @link      http://www.altheatec.com
  */
 require_once (__DIR__.'/SimpleDOMAccess/SimpleDOMDocument.class.php');
 
