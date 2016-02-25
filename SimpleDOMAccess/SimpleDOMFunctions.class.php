@@ -14,10 +14,11 @@
 /**
  * Class SimpleDOMFunctions that holds static general functions used with SimpleDOMAccess
  *
- * @copyright  Copyright (c) 2009, S.A. Apostolou
- * @license    None
- * @version    Release: @package_version@
- * @link       http://www.SimpleDOMAccess.com
+ * @author    S.A. Apostolou <simpledomaccess@altheatec.com>
+ * @license   LGPL: http://www.gnu.org/copyleft/lesser.html
+ * @copyright Copyright (c) 2009, S.A. Apostolou
+ * @version   $Id$
+ * @link      http://www.altheatec.com
  * @since      Class available since Release 1.0
  */
 class SimpleDOMFunctions {
